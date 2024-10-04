@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MentalLime
 - 👀 I’m interested in coding, gaming and working out.
-- 🌱 I’m currently learning Java and python.
+- 🌱 I’m currently learning Java, React Native, HTML, CSS, and JS.
 - 🧠 I'm looking to learn more about coding.
 - 📫 How to reach me 118869023+MentalLime@users.noreply.github.com
 
